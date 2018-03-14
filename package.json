@@ -1,10 +1,11 @@
 {
-  "name": "React with express",
+  "name": "React-boilerplate",
   "version": "1.0.0",
   "description": "React with express",
   "main": "index.js",
-  "author": "Stefano Corra",
+  "author": "stefano corra",
   "license": "MIT",
+  "homepage": "http://stefanocorra.com/",
   "dependencies": {
     "axios": "^0.16.1",
     "babel-core": "^6.24.1",
